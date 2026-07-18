@@ -6,6 +6,7 @@ This project is a Cisco Packet Tracer network simulation for a branch office net
 ## Technologies & Concepts Used
 - VLAN Configuration
 - Inter-VLAN Routing
+- Trunk Links
 - Access Control Lists (ACL)
 - Router and Switch Configuration
 
